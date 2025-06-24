@@ -1,8 +1,9 @@
 # Intro
-A friend asked if I could write code for his Arduino Nano beacon project. His plan is to go sailing on the North Sea, turning his onboard transceiver in a floating beacon in the 2m band.
+A friend asked if I could write code for his Arduino Nano beacon project. His plan is to go sailing in the North Sea, turning his on-board transceiver into a floating beacon on the 2m band.
 
-To achieve this, the Nano is connected to a cheap GPS module and acts as a straight keyer for his transceiver. The callsign and location (the Maidenhead locator) will be sent followed by a 15 second keydown tone.
-This squence will be repeated whereby the location is constanty updated.
+To achieve this, the Nano is connected to an inexpensive GPS module and acts as a straight keyer for his transceiver. The callsign and location (the Maidenhead locator) are transmitted followed by a 15-second keydown tone. This sequence is repeated with the location being constantly updated.
+
+Translated with DeepL.com (free version)
 
 # Schematic
 ![Schematic](images/schematic.jpg)
