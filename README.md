@@ -3,7 +3,6 @@ A friend asked if I could write code for his Arduino Nano beacon project. His pl
 
 To achieve this, the Nano is connected to an inexpensive GPS module and acts as a straight keyer for his transceiver. The callsign and location (the Maidenhead locator) are transmitted followed by a 15-second keydown tone. This sequence is repeated with the location being constantly updated.
 
-Translated with DeepL.com (free version)
 
 # Schematic
 ![Schematic](images/schematic.jpg)
